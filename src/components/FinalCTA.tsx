@@ -10,7 +10,7 @@ export default function FinalCTA() {
           <p className="t-body mt-12 max-w-xl">15–30 min call · clarity first · no forms — just pick a time that suits your rhythm.</p>
           
           <div className="mt-12 flex gap-6">
-            <a href={SITE.calendlyUrl} className="t-button bg-amber-400 text-black px-10 py-5 rounded-full font-bold hover:scale-105 transition">
+            <a href="https://calendly.com/choccc/choc-meeting-room" className="t-button bg-amber-400 text-black px-10 py-5 rounded-full font-bold hover:scale-105 transition">
               Book a Call
             </a>
             <a href="#top" className="t-button border border-zinc-800 px-10 py-5 rounded-full hover:bg-zinc-900 transition">

@@ -65,7 +65,7 @@ export default function Navbar() {
 
         {/* CTA */}
         <a
-          href={SITE.calendlyUrl}
+          href="https://calendly.com/choccc/choc-meeting-room"
           target="_blank"
           rel="noreferrer"
           className={[
